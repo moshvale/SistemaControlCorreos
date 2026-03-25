@@ -63,3 +63,7 @@ htmlcov/
 *.tmp
 *.bak
 *.log
+
+# Docs files
+*.md
+*.pdf
