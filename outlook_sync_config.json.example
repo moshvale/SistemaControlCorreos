@@ -1,0 +1,6 @@
+{
+    "server_url": "http://192.168.1.100:5000",
+    "username": "tu_usuario",
+    "password": "tu_contraseña",
+    "limit": 10
+}
